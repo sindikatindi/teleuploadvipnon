@@ -1,0 +1,8 @@
+python-telegram-bot==13.1
+youtube_dl
+telegram-upload==0.3.4
+telethon==1.18.2
+ffmpeg
+requests
+pandas
+psycopg2
