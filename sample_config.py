@@ -10,4 +10,3 @@ class Config(object):
     # Array to store users who are authorized to use the bot
     AUTH_USERS = int(os.environ.get("AUTH_USERS", ""))
     # Banned Unwanted Members..
-    SERVER_ID = int(os.environ.get("SERVER_ID", ""))
